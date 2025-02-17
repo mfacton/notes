@@ -1,2 +1,2 @@
 # notes
-Engineering Notes
+Notes
