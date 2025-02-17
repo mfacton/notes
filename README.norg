@@ -1,5 +1,19 @@
-# notes
-Notes
+* My Tasks
+This is a simple norg file.
 
-- bob
-[] hello
+** TODO Learn Emacs
+- [ ] Research about Emacs Org-mode
+- [ ] Install Emacs
+- [ ] Set up basic Org-mode configuration
+
+** IN-PROGRESS Work on project
+- [ ] Complete task 1
+- [X] Task 2 (done)
+
+** DONE Read a book
+- [X] Chapter 1
+- [X] Chapter 2
+
+** Ideas
+- Start a new project
+- Try out different editors like Neovim
